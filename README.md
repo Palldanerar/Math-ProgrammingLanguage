@@ -1,4 +1,4 @@
-# Math-ProgrammingLanguage
+# Math-Programming Language
 My programming language on TypeScript.
 
 # RUN
