@@ -1,5 +1,5 @@
 # Math-Programming Language
-My programming language on TypeScript.
+Programming language on TypeScript.
 
 # RUN
 npm start
